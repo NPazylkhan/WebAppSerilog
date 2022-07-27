@@ -1,0 +1,5 @@
+2022-07-27 15:25:07.348 +06:00 [INF] Starting web host
+{"Timestamp":"2022-07-27T15:27:41.7575512+06:00","Level":"Information","MessageTemplate":"Starting web host"}
+{"Timestamp":"2022-07-27T15:30:22.3844744+06:00","Level":"Information","MessageTemplate":"Starting web host"}
+{"Timestamp":"2022-07-27T15:35:29.7696522+06:00","Level":"Information","MessageTemplate":"Starting web host"}
+{"Timestamp":"2022-07-27T15:36:59.2738576+06:00","Level":"Information","MessageTemplate":"Starting web host"}
